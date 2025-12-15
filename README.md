@@ -1,16 +1,36 @@
-# first_app
+# 🎲 Flutter Dice Rolling App
 
-A new Flutter project.
+A simple Flutter application that simulates rolling a dice. Each tap generates a random number and updates the dice face accordingly. This project was built as a learning exercise to practice Flutter widgets, state management, and randomization.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- Roll a virtual six-sided dice
+- Random number generation on button tap
+- Dynamic UI updates
+- Clean and minimal interface
+- Cross-platform (Android & iOS & web-based)
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK
+- Dart SDK (included with Flutter)
+- Android Studio or VS Code
+- Android Emulator or physical device
+
+### Installation
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/your-username/flutter-dice-app.git
+2. Navigate to project folder:
+   ```
+   cd flutter-dice-app
+3. Install dependancies:
+   ```
+   flutter pub get
+4.Run the app (from project directory)
+   ```
+flutter run
+
